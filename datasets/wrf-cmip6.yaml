@@ -33,5 +33,6 @@ DataAtWork:
       URL: https://nbviewer.jupyter.org/urls/wrf-cmip6-noversioning.s3.amazonaws.com/Example_notebook/Notebook_example.ipynb
       AuthorName: Stefan Rahimi
     - Title: Downscaling file descriptions, directory structure, and data access
-      URL: https://dept.atmos.ucla.edu/sites/default/files/alexhall/files/aws_tiers_dirstructure_nov22.pdf
+      URL: https://www.researchgate.net/publication/374504614_Data_tier_descriptions_directory_structure_and_data_access_of_the_Western_US_Dynamically_Downscaled_Dataset_WUS-D3_version_1
+      URL: https://www.researchgate.net/publication/374615396_An_Overview_of_the_Western_United_States_Dynamically_Downscaled_Dataset_WUS-D3
       AuthorName: Stefan Rahimi & Lei Huang
